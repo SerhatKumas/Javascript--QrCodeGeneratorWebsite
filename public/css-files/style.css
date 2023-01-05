@@ -1,0 +1,25 @@
+/* Main Page Css File*/
+@import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
+
+html{
+    font-family: 'Stylish', sans-serif;
+}
+body{
+    min-height: 100vh;
+    min-width: 100wv;
+    background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+    font-family: 'Stylish', sans-serif;
+    overflow: hidden;
+}
+
+#centerized-div {
+	min-height: 100vh;
+    font-family: 'Stylish', sans-serif;
+}
+
+div h1{
+    font-weight: bolder;
+    font-size: 10vh;
+}
