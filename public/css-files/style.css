@@ -23,3 +23,12 @@ div h1{
     font-weight: bolder;
     font-size: 10vh;
 }
+
+button a{
+text-decoration: none;
+color: whitesmoke;
+}
+
+button a:hover{
+    color: whitesmoke;
+}
