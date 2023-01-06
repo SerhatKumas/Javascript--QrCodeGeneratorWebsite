@@ -1,34 +1,35 @@
 /* Main Page Css File*/
 @import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
 
-html{
-    font-family: 'Stylish', sans-serif;
+html {
+	font-family: 'Stylish', sans-serif;
 }
-body{
-    min-height: 100vh;
-    min-width: 100wv;
-    background-image: url(../images/background.jpg);
+
+body {
+	min-height: 100vh;
+	min-width: 100wv;
+	background-image: url(../images/background.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-    font-family: 'Stylish', sans-serif;
-    overflow: hidden;
+	font-family: 'Stylish', sans-serif;
+	overflow: hidden;
 }
 
 #centerized-div {
 	min-height: 100vh;
-    font-family: 'Stylish', sans-serif;
+	font-family: 'Stylish', sans-serif;
 }
 
-div h1{
-    font-weight: bolder;
-    font-size: 10vh;
+div h1 {
+	font-weight: bolder;
+	font-size: 10vh;
 }
 
-button a{
-text-decoration: none;
-color: whitesmoke;
+button a {
+	text-decoration: none;
+	color: whitesmoke;
 }
 
-button a:hover{
-    color: whitesmoke;
+button a:hover {
+	color: whitesmoke;
 }
